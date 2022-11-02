@@ -1,0 +1,23 @@
+
+
+
+
+##### JPA RECAP #####
+
+
+It is defined in javax.persistence package.
+
+
+The EntityManagerFactory interface is used to interact with the entity manager factory for the persistence unit. Thus, it provides an entity manager.
+
+
+It uses EntityManager interface to create, read, and delete operations for instances of mapped entity classes. This interface interacts with the persistence context.
+
+
+It uses Java Persistence Query Language (JPQL) as an object-oriented query language to perform database operations.
+
+
+
+
+Java Persistence API (JPA) defines the management of relational data in the Java applications.
+
